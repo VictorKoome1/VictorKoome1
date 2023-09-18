@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I,m Victor, a Front-End Web Developer
 
-<!--
+![istockphoto-1271348075-612x612](https://github.com/VictorKoome1/VictorKoome1/assets/112778094/8f351679-6645-47f5-8c90-153bdd16f2b3)
+
+
 **VictorKoome1/VictorKoome1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
