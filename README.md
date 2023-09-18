@@ -1,6 +1,6 @@
                                                       Hi there 👋 I,m Victor, a Front-End Web Developer
 
-                                    ![istockphoto-1271348075-612x612](https://github.com/VictorKoome1/VictorKoome1/assets/112778094/8f351679-6645-47f5-8c90-153bdd16f2b3)
+  ![istockphoto-1271348075-612x612](https://github.com/VictorKoome1/VictorKoome1/assets/112778094/8f351679-6645-47f5-8c90-153bdd16f2b3)
 
   I specialize in building mobile responsive front-end UI applications that connect with APIs and other backend technologies. Im passionate about learning new technologies and 
   understand there is more than one way to accomplish a task. Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, I am a quick 
